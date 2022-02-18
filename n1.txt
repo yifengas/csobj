@@ -1,1 +1,2 @@
 new.text v1
+new.text v2
